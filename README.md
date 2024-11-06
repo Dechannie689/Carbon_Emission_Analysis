@@ -5,9 +5,7 @@ The primary focus of this analysis is to investigate and quantify the carbon foo
 ## 2. Methodology
 ### a. Data patterns
 The dataset consists of four tables containing information on carbon emissions generated during the production of goods. Below is a snapshot of the data structure, highlighting key fields and relationships within the data:
-Hình
-
-
+![](https://github.com/Dechannie689/Carbon_Emission_Analysis/blob/main/carbon_emissions_data_struture.png)
 ### b. Solutions
 Before analyzing, we need to clean the data step by step as follows:
 #### Step 1: Identification of Duplicates
@@ -48,6 +46,7 @@ Result:
 | 10222-1-2013 | 83         | 28         | 8                 | 2013 | Office Chair                                                    | 20.68     | 73                   | 80.63                      | 17.36                        | 2.01                         | 
 | 10261-1-2017 | 14         | 16         | 25                | 2017 | Multifunction Printers                                          | 110       | 1488                 | 30.65                      | 5.51                         | 63.84                        | 
 | 10261-2-2017 | 14         | 16         | 25                | 2017 | Multifunction Printers                                          | 110       | 1818                 | 25.08                      | 4.51                         | 70.41                        | 
+
 There are a total of 480 rows without missing values or irrelevant data.
 ## 3. Findings
 ### 1. Most contributed carbon emissions product
