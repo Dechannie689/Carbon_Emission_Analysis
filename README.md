@@ -134,5 +134,3 @@ Result:
 | 2015 | 10840415 | 
 | 2014 | 624226   | 
 | 2013 | 503857   | 
-
-### 7. Which industry groups has demonstrated the most notable decrease in carbon footprints (PCFs) over time?
